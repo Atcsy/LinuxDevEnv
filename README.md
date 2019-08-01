@@ -7,4 +7,4 @@ making a full a ubuntu linux dev php enviroment from sratch with testing etc.
 4. install php [Install php](https://github.com/Atcsy/LinuxDevEnv/blob/master/git.md)
 5. install git [Install Git](https://github.com/Atcsy/LinuxDevEnv/blob/master/git.md)
 6. install mysql [Install mysql](https://github.com/Atcsy/LinuxDevEnv/blob/master/mysql.md)
-.
+7.
