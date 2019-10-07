@@ -11,3 +11,6 @@ making a full a ubuntu linux dev php enviroment from sratch with testing etc.
 
 
 7. **important linux commands** [commands](https://github.com/Atcsy/LinuxDevEnv/blob/master/mysql.md)
+
+
+8.
