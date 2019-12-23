@@ -24,3 +24,9 @@ useraccountcontrolsettings
 
 
 winver -windows version
+
+
+
+explorer shell:AppsFolder
+shell:Start Menu
+
